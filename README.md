@@ -65,7 +65,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
   * checkpoint_critic_1.pth
 * A report describing the development process and ideas for future work
   * Project 3 - Report
-* Versions of various packages required to ensure smooth running of 'Continuous_Control_Final.ipynb' 
+* Versions of various packages required to ensure smooth running of 'Tennis.ipynb' 
   * requirements.txt
 * This README.md file
 

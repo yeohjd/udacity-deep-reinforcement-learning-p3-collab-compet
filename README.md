@@ -5,7 +5,7 @@ This project is one of the assignments in [Deep Reinforcement Learning Nanodegre
 
 For this project, we're attempting to solve the the Tennis environment.
 The goal in this project is to train two agents controlling rackets to bounce a ball over a net.  
-![Trained Agents](./img/trained_agents.gif)  
+![Trained Agents](./trained_agents.gif)  
 
 
 ## Getting started
